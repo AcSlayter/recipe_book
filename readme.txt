@@ -1,5 +1,5 @@
 $ npm init
 
-$ npm install express --save
+./install.sh
 
-$node app.js
+./start.sh
